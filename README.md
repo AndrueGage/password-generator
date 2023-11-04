@@ -10,6 +10,8 @@ This is a random password generator made with JavaScript! Follow the prompts tha
 ## Preview
 ![image](https://github.com/AndrueGage/password-generator/assets/147120878/7c300ea1-7966-40d0-b1f6-51832d71c9f0)
 
+Visit the live site [here!](https://andruegage.github.io/password-generator/)
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, modify, and distribute this project as long as you provide proper attribution and include the original license in your distribution.
