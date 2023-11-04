@@ -8,6 +8,7 @@ This is a random password generator made with JavaScript! Follow the prompts tha
 - [Contact](#contact)
   
 ## Preview
+![image](https://github.com/AndrueGage/password-generator/assets/147120878/7c300ea1-7966-40d0-b1f6-51832d71c9f0)
 
 ## License
 
